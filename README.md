@@ -1,4 +1,4 @@
 ## My name is Ian Bridges: 
 
-Find more information on my website, [iannbridges.com]
+Find more information on my website, [iannbridges.com](https://iannbridges.com)
 
