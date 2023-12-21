@@ -1,7 +1,6 @@
 # Ian Bridges: 
 
 ### General Info: 
-- Age: 18
 - Studying: Pure Mathematics 
 - Place of Study: Florida State University
 - Research Interests: Quantum Coding Theory
